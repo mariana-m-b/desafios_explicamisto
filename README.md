@@ -1,3 +1,8 @@
+## Aquilo que fiz:
+- <strong>**frontend**</strong>: refiz a página inicial - navbar, testemunhos e footer, utilizando tailwind 
+- <strong>**backend**</strong>: adicionei na tabela do utilizador a classificação em aluno ou explicador. Criei uma tabela para alunos e outra para explicadores, com diferentes campos.
+- <strong>**"fullstack"**</strong>: criei um formulário para adicionar a nota do primeiro teste na tabela do aluno. É possível testar clicando em 'entrar na plataforma' na página inicial e utilizando o nome de um utilizador que esteja registado na tabela do utilizador como aluno.
+
 # Recrutamento DepTI ExplicaMisto
 
 https://explicamisto.pt/
